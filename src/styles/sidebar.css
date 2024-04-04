@@ -1,0 +1,27 @@
+.sidebar_main {
+    width: 18%;
+    height: 96vh;
+    background-color: #777883;
+    padding: 30px 0;
+}
+
+.sidebar_item {
+    width: 100%;
+    margin: 15px 0;
+    cursor: pointer;
+    background-color: #777883;
+}
+
+.sidebar_item_content:hover {
+    opacity: 0.7;
+}
+
+.sidebar_item_content {
+    margin: 0 auto;
+    padding: 5px 0;
+    color: #fff;
+    font-size: 20px;
+    width: 75%;
+    text-align: center;
+    border-bottom: 1px solid #fff;
+}
