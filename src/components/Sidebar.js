@@ -33,7 +33,6 @@ class Sidebar extends React.Component {
                 <div className="sidebar_item">
                     <div className="sidebar_item_content">Content 8</div>
                 </div>
-
             </div>
         )
     }
